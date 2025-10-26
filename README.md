@@ -1,15 +1,15 @@
-# 👋 Salam! Man [Your Name] hastam
-**Full-Stack Developer | Open Source Enthusiast | Tech Explorer**
+# 👋 Hello I'm SepehrJam
+**Full-Stack Front-end Developer | Electronic designer**
 
 💻 **Skills:**  
-- Frontend: HTML, CSS, JavaScript, React, Tailwind  
-- Backend: Node.js, Express, PHP, MySQL, MongoDB  
-- Tools: Git, GitHub, Docker, VS Code, Figma  
+- Frontend: HTML, CSS, JavaScript, React, Tailwind, Vite,
+- Electronic: Arduino
+- Tools: Git, GitHub
 
-🌱 **Currently Learning:** Rust, Next.js, AI & Machine Learning  
+🌱 **Currently Learning:** Python
 
 🌐 **Find me on:**  
-[LinkedIn](https://linkedin.com/in/yourprofile) | [Twitter](https://twitter.com/yourprofile) | [Portfolio](https://yourportfolio.com)
+[Telegram](https://t.me/SepehrGJM) | [Github](https://github.com/SepehrJam) | [Portfolio](https://yourportfolio.com)
 
 ---
 
