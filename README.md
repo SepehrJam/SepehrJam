@@ -17,10 +17,8 @@
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### **Electronic Skills**
-![Arduino](https://img.shields.io/badge/Arduino-47A248?style=for-the-badge&logo=Arduino&logoColor=white)
-![Python](https://img.shields.io/badge/Python-DC382D?style=for-the-badge&logo=Python&logoColor=white)
-![NoSQL](https://img.shields.io/badge/NoSQL-000000?style=for-the-badge&logo=databricks&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-008184?style=for-the-badge&logo=Arduino&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=Python&logoColor=white)
 
 ### **Tools & Platforms**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
