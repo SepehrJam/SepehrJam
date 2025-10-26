@@ -11,7 +11,7 @@
 🌐 **Find me on:**  
 [Telegram](https://t.me/SepehrGJM) | 
 [Github](https://github.com/SepehrJam) |
-[Portfolio](https://yourportfolio.com)
+[Email](mailto:sghafarian674@gmail.com)
 
 ---
 
