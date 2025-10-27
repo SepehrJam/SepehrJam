@@ -1,50 +1,51 @@
-# 👋 Hello I'm SepehrJam
-**Full-Stack Front-end Developer | Electronic designer**
+# 👋 Hey there, I'm SepehrJam!
 
-💻 **Skills:**  
-- Frontend: HTML, CSS, JavaScript, React, Tailwind, Vite,
-- Electronic: Arduino
-- Tools: Git, GitHub
+🚀 **Full-Stack Front-End Developer | Electronic Designer**
 
-🌱 **Currently Learning:** Python
-
-🌐 **Find me on:**  
-[Telegram](https://t.me/SepehrGJM) | 
-[Github](https://github.com/SepehrJam) |
-[Email](mailto:sghafarian674@gmail.com)
+Welcome to my GitHub!  
+I'm passionate about building beautiful web experiences, writing clean code, and learning new technologies every day.  
+I love turning ideas into reality — from sleek front-ends to powerful electronic systems.
 
 ---
 
-## 🚀 Pinned Projects
-
-### 1. **Voxsy landing Page**
-> A modern landing page For Voxsy-platform.
-- Technologies: Vite, React, TailwindCSS
-- [Repo Link](https://github.com/SepehrJam/Voxsy-Landing)
-
-### 2. **Iranian Bomber**
-> A Iranian SMS Bomber with AxiosLibrary.
-- Technologies: JavaScript, Node.js, Axios
-- [Repo Link](https://github.com/SepehrJam/IranianBomber)
-
-### 3. **Biography Website**
-> This biography website is for Github pages.
-- Technologies: React, Tailwind
-- [Repo Link](https://github.com/SepehrJam/SepehrJam.github.io)
+### 🧠 About Me
+- 💻 I mostly code with **Arduino** and **JavaScript**
+- 🎨 I enjoy crafting **modern UIs** using **React** and **Tailwind CSS**
+- 🛠️ Currently working on **electronic development projects**
+- 🌱 Always learning and improving my craft
 
 ---
 
-## ⚡ Fun Fact
-> I love combining creativity with code – sometimes it works, sometimes… well, it works eventually 😅
+### 🧩 Tech Stack
+
+**Frontend:**  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css&logoColor=fff)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=fff)
+![Vite](https://img.shields.io/badge/Vite-C58AF9?logo=vite&logoColor=fff)
+
+**Electronics:**  
+![Arduino](https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=fff)
+![Proteus](https://img.shields.io/badge/Proteus-14354C?logo=proteus&logoColor=fff)
+
+**Tools:**  
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff)
 
 ---
 
-## 🏆 Badges
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![TelwindCSS](https://img.shields.io/badge/-TailwindCSS-4dc0b5?style=flat-square&logo=tailwindcss&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css&logoColor=white)
-![Arduino](https://img.shields.io/badge/-Arduino-008184?style=flat-square&logo=Arduino&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-f34f29?style=flat-square&logo=Git&logoColor=white)
+### 📊 GitHub Stats
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SepehrJam&layout=compact&theme=dark )
+
+---
+
+### 🌐 Connect With Me
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=white)](https://t.me/SepehrGJM)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/SepehrJam)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sghafarian674@gmail.com)
+
+---
+
+✨ Thanks for stopping by! Don’t forget to ⭐ your favorite repositories!
