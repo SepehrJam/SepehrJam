@@ -48,8 +48,4 @@ I love turning ideas into reality — from sleek front-ends to powerful electron
 
 ---
 
-![](https://komarev.com/ghpvc/?username=SepehrJam)
-
----
-
 ✨ Thanks for stopping by! Don’t forget to ⭐ your favorite repositories!
