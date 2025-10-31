@@ -30,12 +30,12 @@
 
 <h4 align="center">🔌 Electronics & Embedded Systems</h4>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi" />
+  <img src="https://skillicons.dev/icons?i=arduino,proteus" />
 </p>
 
 <h4 align="center">🛠 Tools & Platforms</h4>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
 <br/>
@@ -44,11 +44,7 @@
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SepehrJam&theme=tokyonight" alt="GitHub Streak" height="160"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SepehrJam&layout=compact&theme=tokyonight" height="140"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SepehrJam&layout=compact&theme=dark " height="140"/>
 </p>
 
 <br/>
@@ -59,7 +55,7 @@
 <p align="center">
   <a href="https://sepehrjam.github.io" target="_blank"><b>Website</b></a> • 
   <a href="https://t.me/SepehrGJM" target="_blank"><b>Telegram</b></a> • 
-  <a href="mailto:your@email.com"><b>Email</b></a>
+  <a href="mailto:sghafarian674@gmail.com"><b>Email</b></a>
 </p>
 
 <br/>
