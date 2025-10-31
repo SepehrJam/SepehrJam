@@ -22,6 +22,7 @@
 
 <!-- Tech Stack -->
 <h2 align="center">⚙️ Tech Stack</h2>
+<br/>
 <h4 align="center">💻 Front-End Development</h4>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,tailwind" />
