@@ -1,54 +1,104 @@
-# 👋 Hey there, I'm SepehrJam!
+<!-- Profile Header -->
+<h1 align="center">👋 Hey there, I'm <span style="color:#58a6ff;">Sepehr Jam</span></h1>
+<h3 align="center">Front-End Developer • Electronics Designer • Arduino Programmer</h3>
 
-🚀 **Full-Stack Front-End Developer | Electronic Designer**
+<p align="center">
+  <a href="https://sepehrjam.github.io" target="_blank">🌐 Portfolio</a> • 
+  <a href="https://github.com/SepehrJam" target="_blank">💻 GitHub</a> • 
+  <a href="https://t.me/SepehrGJM" target="_blank">💬 Telegram</a>
+</p>
 
-Welcome to my GitHub!  
-I'm passionate about building beautiful web experiences, writing clean code, and learning new technologies every day.  
-I love turning ideas into reality — from sleek front-ends to powerful electronic systems.
+<hr/>
 
----
+<!-- About Me -->
+<h2 align="center">🧠 About Me</h2>
 
-### 🧠 About Me
-- 💻 I mostly code with **Arduino** and **JavaScript**
-- 🎨 I enjoy crafting **modern UIs** using **React** and **Tailwind CSS**
-- 🛠️ Currently working on **electronic development projects**
-- 🌱 Always learning and improving my craft
+<p align="center">
+  I'm a passionate <b>Front-End Developer</b> and <b>Electronics Designer</b> who loves building clean, responsive, and fast web applications.  
+  I enjoy combining creativity with technology — whether it’s through <b>React</b>, <b>Tailwind CSS</b>, or <b>Arduino</b> projects.
+</p>
 
----
+<br/>
 
-### 🧩 Tech Stack
+<!-- Tech Stack -->
+<h2 align="center">⚙️ Tech Stack</h2>
 
-**Frontend:**  
+<h4 align="center">💻 Front-End Development</h4>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,tailwind" />
+</p>
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css&logoColor=fff)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=fff)
-![Vite](https://img.shields.io/badge/Vite-C58AF9?logo=vite&logoColor=fff)
+<h4 align="center">🔌 Electronics & Embedded Systems</h4>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi" />
+</p>
 
-**Electronics:**  
+<h4 align="center">🛠 Tools & Platforms</h4>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
+</p>
 
-![Arduino](https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=fff)
-![Proteus](https://img.shields.io/badge/Proteus-14354C?logo=proteus&logoColor=fff)
+<br/>
 
-**Tools:**  
+<!-- Projects -->
+<h2 align="center">🚀 Featured Projects</h2>
 
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff)
+<table align="center">
+  <tr>
+    <th>Project</th>
+    <th>Description</th>
+    <th>Tech</th>
+    <th>Link</th>
+  </tr>
+  <tr>
+    <td><b>Portfolio</b></td>
+    <td>My personal website and showcase.</td>
+    <td>HTML, CSS, JS, Vite</td>
+    <td><a href="https://sepehrjam.github.io" target="_blank">🔗 View</a></td>
+  </tr>
+  <tr>
+    <td><b>Voxsy Landing</b></td>
+    <td>A modern landing page demo.</td>
+    <td>HTML, CSS, JS</td>
+    <td><a href="https://github.com/SepehrJam/Voxsy-Landing" target="_blank">💻 Repo</a></td>
+  </tr>
+  <tr>
+    <td><b>Arduino Projects</b></td>
+    <td>My electronic and Arduino experiments.</td>
+    <td>Arduino, C++</td>
+    <td>🛠 Coming Soon</td>
+  </tr>
+</table>
 
----
+<br/>
 
-### 📊 GitHub Stats
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SepehrJam&layout=compact&theme=dark )
+<!-- GitHub Stats -->
+<h2 align="center">📊 GitHub Stats</h2>
 
----
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SepehrJam&show_icons=true&theme=tokyonight" alt="Sepehr's GitHub Stats" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SepehrJam&theme=tokyonight" alt="GitHub Streak" height="160"/>
+</p>
 
-### 🌐 Connect With Me
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=white)](https://t.me/SepehrGJM)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/SepehrJam)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sghafarian674@gmail.com)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SepehrJam&layout=compact&theme=tokyonight" height="140"/>
+</p>
 
----
+<br/>
 
-✨ Thanks for stopping by! Don’t forget to ⭐ your favorite repositories!
+<!-- Contact -->
+<h2 align="center">📫 Contact Me</h2>
+
+<p align="center">
+  <a href="https://sepehrjam.github.io" target="_blank"><b>Website</b></a> • 
+  <a href="https://t.me/SepehrGJM" target="_blank"><b>Telegram</b></a> • 
+  <a href="mailto:your@email.com"><b>Email</b></a>
+</p>
+
+<br/>
+
+<hr/>
+
+<p align="center">
+  <i>⚡ Built with passion by <b>Sepehr Jam</b> ⚡</i>
+</p>
