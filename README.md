@@ -44,7 +44,7 @@
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=SepehrJam&show_icons=true&theme=tokyonight" alt="Sepehr's GitHub Stats" height="160"/>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SepehrJam&layout=compact&theme=tokyonight" alt="Sepehr's GitHub Stats" height="160"/>
 </p>
 
 <br/>
