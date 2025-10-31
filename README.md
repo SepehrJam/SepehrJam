@@ -44,7 +44,7 @@
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SepehrJam&layout=compact&theme=dark " height="140"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SepehrJam&theme=tokyonight" alt="GitHub Streak" height="160"/>
 </p>
 
 <br/>
