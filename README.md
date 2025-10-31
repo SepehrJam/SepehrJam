@@ -18,8 +18,6 @@
   I enjoy combining creativity with technology — whether it’s through <b>React</b>, <b>Tailwind CSS</b>, or <b>Arduino</b> projects.
 </p>
 
-<br/>
-
 <!-- Tech Stack -->
 <h2 align="center">⚙️ Tech Stack</h2>
 <br/>
@@ -35,13 +33,11 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
-<br/>
 <!-- GitHub Stats -->
 <h2 align="center">📊 GitHub Stats</h2>
 <p align="center">
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SepehrJam&layout=compact&theme=tokyonight" alt="Sepehr's GitHub Stats" height="160"/>
 </p>
-<br/>
 <!-- Contact -->
 <h2 align="center">📫 Contact Me</h2>
 <p align="center">
@@ -49,7 +45,6 @@
   <a href="https://t.me/SepehrGJM" target="_blank"><b>Telegram</b></a> • 
   <a href="mailto:sghafarian674@gmail.com"><b>Email</b></a>
 </p>
-<br/
 <hr/>
 <p align="center">
   <i>⚡ Built with passion by <b>Sepehr Jam</b> ⚡</i>
