@@ -40,38 +40,6 @@
 
 <br/>
 
-<!-- Projects -->
-<h2 align="center">🚀 Featured Projects</h2>
-
-<table align="center">
-  <tr>
-    <th>Project</th>
-    <th>Description</th>
-    <th>Tech</th>
-    <th>Link</th>
-  </tr>
-  <tr>
-    <td><b>Portfolio</b></td>
-    <td>My personal website and showcase.</td>
-    <td>HTML, CSS, JS, Vite</td>
-    <td><a href="https://sepehrjam.github.io" target="_blank">🔗 View</a></td>
-  </tr>
-  <tr>
-    <td><b>Voxsy Landing</b></td>
-    <td>A modern landing page demo.</td>
-    <td>HTML, CSS, JS</td>
-    <td><a href="https://github.com/SepehrJam/Voxsy-Landing" target="_blank">💻 Repo</a></td>
-  </tr>
-  <tr>
-    <td><b>Arduino Projects</b></td>
-    <td>My electronic and Arduino experiments.</td>
-    <td>Arduino, C++</td>
-    <td>🛠 Coming Soon</td>
-  </tr>
-</table>
-
-<br/>
-
 <!-- GitHub Stats -->
 <h2 align="center">📊 GitHub Stats</h2>
 
