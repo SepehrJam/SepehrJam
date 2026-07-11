@@ -21,9 +21,9 @@
 <!-- Tech Stack -->
 <h2 align="center">⚙️ Tech Stack</h2>
 <br/>
-<h4 align="center">💻 Front-End Development</h4>
+<h4 align="center">💻 Web Development</h4>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,tailwind" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,jquary,ajax,php,nodejs,reactjs,vite,tailwindcss,cpp,csharp" />
 </p>
 <h4 align="center">🔌 Electronics & Embedded Systems</h4>
 <p align="center">
