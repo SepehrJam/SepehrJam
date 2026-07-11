@@ -27,7 +27,7 @@
 </p>
 <h4 align="center">🔌 Electronics & Embedded Systems</h4>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=arduino" />
+  <img src="https://skillicons.dev/icons?i=arduino,Qt" />
 </p>
 <h4 align="center">🛠 Tools & Platforms</h4>
 <p align="center">
