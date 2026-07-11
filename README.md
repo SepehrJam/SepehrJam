@@ -5,7 +5,6 @@
 <p align="center">
   <a href="https://sepehrjam.github.io" target="_blank">🌐 Portfolio</a> • 
   <a href="https://github.com/SepehrJam" target="_blank">💻 GitHub</a> • 
-  <a href="https://t.me/SepehrGJM" target="_blank">💬 Telegram</a>
 </p>
 
 <hr/>
@@ -14,20 +13,20 @@
 <h2 align="center">🧠 About Me</h2>
 
 <p align="center">
-  I'm a passionate <b>Front-End Developer</b> and <b>Electronics Designer</b> who loves building clean, responsive, and fast web applications.  
-  I enjoy combining creativity with technology — whether it’s through <b>React</b>, <b>Tailwind CSS</b>, or <b>Arduino</b> projects.
+  I'm a passionate <b>Developer</b> and <b>Electronics Designer</b> who loves building clean, responsive, and fast web applications.  
+  I enjoy combining creativity with technology — whether it’s through <b>Arduino</b> projects.
 </p>
 
 <!-- Tech Stack -->
 <h2 align="center">⚙️ Tech Stack</h2>
 <br/>
-<h4 align="center">💻 Web Development</h4>
+<h4 align="center">💻 Development</h4>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,php,nodejs,react,vite,tailwindcss,cpp,csharp" />
 </p>
 <h4 align="center">🔌 Electronics & Embedded Systems</h4>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=arduino,Qt" />
+  <img src="https://skillicons.dev/icons?i=arduino" />
 </p>
 <h4 align="center">🛠 Tools & Platforms</h4>
 <p align="center">
@@ -42,7 +41,6 @@
 <h2 align="center">📫 Contact Me</h2>
 <p align="center">
   <a href="https://sepehrjam.github.io" target="_blank"><b>Website</b></a> • 
-  <a href="https://t.me/SepehrGJM" target="_blank"><b>Telegram</b></a> • 
   <a href="mailto:sghafarian674@gmail.com"><b>Email</b></a>
 </p>
 <hr/>
